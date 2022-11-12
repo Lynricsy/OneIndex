@@ -2,7 +2,7 @@
   "userPrincipalName": "i@foxex.cn",
   "icon": "/icons/128.png",
   "title": "Shirakami Ling's OneDrive!",
-  "baseDirectory": "/",
+  "baseDirectory": "/Public",
   "maxItems": 100,
   "googleFontSans": "Inter",
   "googleFontMono": "Fira Mono",
